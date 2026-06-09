@@ -14,7 +14,7 @@
 
 ## 🚀 Live-демо
 
-👉 **[Открыть демо](https://musa-jusa.github.io/day1-fetch-api/popup.html)**
+👉 **[Открыть демо](https://musa-jusa.github.io/portfolio-popup/)**
 
 ---
 
